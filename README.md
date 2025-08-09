@@ -41,7 +41,7 @@
 
   <h3>📬 Let’s Connect</h3>
   <ul>
-    <li>💼 <a href="www.linkedin.com/in/ahmed-fawzy-243726209" target="_blank">LinkedIn</a></li>
+    <li>💼 <a href="linkedin.com/in/ahmed-fawzy-243726209" target="_blank">linkedin.com/in/ahmed-fawzy-243726209</a></li>
     <li>📫 Email: <a href="ahmed.fawzy.cs1@gmail.com">ahmed.fawzy.cs1@gmail.com</a></li>
   </ul>
 </section>
