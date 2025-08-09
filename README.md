@@ -44,11 +44,4 @@
     <li>💼 <a href="www.linkedin.com/in/ahmed-fawzy-243726209" target="_blank">LinkedIn</a></li>
     <li>📫 Email: <a href="ahmed.fawzy.cs1@gmail.com">ahmed.fawzy.cs1@gmail.com</a></li>
   </ul>
-
-  <hr>
-
-  <h3>💡 Fun Fact</h3>
-  <blockquote>
-    I believe clean UI is not just about design — it's about <strong>user trust</strong> and <strong>product success</strong>.
-  </blockquote>
 </section>
